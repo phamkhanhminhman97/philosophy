@@ -1,5 +1,7 @@
 # Triết học — ôn thi 3 câu hỏi
 
+Ngày học trên trường: [NHAT-KY-HOC.md](../../NHAT-KY-HOC.md). Lịch lớp, hạn nộp: [study/README.md](../../README.md) mục 1.
+
 Môn Triết học của chương trình thạc sĩ. Nguồn duy nhất: *Giáo trình Triết học* (khối không chuyên triết,
 thạc sĩ – tiến sĩ ngành KHTN, công nghệ), Bộ GD&ĐT, NXB Chính trị quốc gia Sự thật, 2022.
 
